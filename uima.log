@@ -1,1 +1,1 @@
-01:35:10.820 - 1: java.util.prefs.WindowsPreferences.<init>: ADVERTENCIA: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+05:17:41.894 - 1: java.util.prefs.WindowsPreferences.<init>: ADVERTENCIA: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
