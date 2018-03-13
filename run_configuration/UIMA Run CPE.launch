@@ -15,7 +15,7 @@
 <stringAttribute key="org.eclipse.debug.ui.target_debug_perspective" value="perspective_default"/>
 <stringAttribute key="org.eclipse.debug.ui.target_run_perspective" value="perspective_default"/>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.apache.uima.examples.cpe.SimpleRunCPE"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="&quot;${file_prompt:CPE Descriptor}&quot;"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="&quot;${file_prompt:CPE Descriptor}&quot; &quot;${folder_prompt:InputDirectory}&quot;"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="uimaj-examples"/>
 <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="&quot;-Djava.util.logging.config.file=${env_var:UIMA_HOME}/config/Logger.properties&quot; -DVNS_HOST=localhost"/>
 </launchConfiguration>
